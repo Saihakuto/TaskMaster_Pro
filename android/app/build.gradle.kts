@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.worktask"
+    namespace = "com.thaweechai.TaskMaster_Pro"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
